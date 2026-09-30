@@ -1,0 +1,6 @@
+{
+  "name": "Vendora",
+  "description": "Enterprise Online Commerce & Order Operations Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
